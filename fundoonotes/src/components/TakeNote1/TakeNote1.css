@@ -1,0 +1,33 @@
+.TakeNote1{
+    display: flex;
+    align-items: center;
+    margin:0px;
+    padding: 0px;
+    margin-top: 50px;
+    height:44px;
+    width:40%;
+    border:1px solid rgb(238, 234, 234);
+    border-radius: 8px;
+    box-shadow: 1px 1px  lightblue;
+}
+.TakeNote1Input{
+    margin:0px;
+    padding: 0px;
+    height:38px;
+     width: 100%;
+     border:0px;
+     padding-left: 4px;
+    font-size: 18px;
+
+}
+.NoteIconDiv{
+    display: flex;
+}
+.Note1SymbolDiv{
+    margin-right: 20px;
+    border-radius: 50%;
+    color:grey
+}
+.TakeNote1Position{
+    margin-left: 30%;
+}

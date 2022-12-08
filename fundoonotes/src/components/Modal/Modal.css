@@ -1,0 +1,29 @@
+.ModalMainDiv {
+  position: absolute;
+  top: 30%;
+  left: 32%;
+  z-index: 50;
+}
+.ModalCss {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 50px;
+  width: 120%;
+  border: 3px solid rgb(238, 234, 234);
+  border-radius: 8px;
+  box-shadow: 1px 1px lightblue;
+  margin-right: 130px;
+}
+.shadow-effect {
+  width: 100%;
+  height: 100%;
+  background-color: #202124;
+  opacity: 0.5;
+  position: fixed;
+  z-index: 15;
+  top: 0;
+  left: 0;
+}
